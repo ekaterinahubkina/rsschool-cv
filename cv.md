@@ -5,11 +5,10 @@
 * E-mail: ekaterina_hubkina@mail.ru
 * Phone: +375(29)189-09-53
 * Github: ekaterinahubkina
-=========
+
 
 ## **About me**
-Currently working as an Englich teacher, but seeking for a career change to a position of Junior (or trainee) Front-end developer. Highly organized and hardworking student of Yandex Practikum and RS-School. Fast learner and highly motivated to develop new skills.
-=========
+Currently working as an Englich teacher, but seeking for a career change to a position of Junior (or trainee) Front-end developer. Highly organized and hardworking student of Yandex Practikum and RS-School. Fast learner and highly motivated to develop new skills.  
 
 ## **Skills**
 * HTML
@@ -22,11 +21,11 @@ Currently working as an Englich teacher, but seeking for a career change to a po
 * VSCode, WebStorm
 
 ## **Education**
-Minsk State Linguistic University
+Minsk State Linguistic University  
 Graduation: 2013
 
-Yandex Practikum
-Web development (Front-end) 
+Yandex Practikum  
+Web development (Front-end)   
 Expected graduation: May 2022
 
 RS Schools 
@@ -39,7 +38,8 @@ https://ekaterinahubkina.github.io/yet-another-project/index.html
 https://ekaterinahubkina.github.io/mesto/index.html
 
 ## **Languages**
-Russian: native
+Russian: native  
+
 English: B2-C1
 
 
