@@ -1,4 +1,11 @@
 .header__list-item {
-    margin: 1em;
+    margin: 10px;
+    font-size: 20px;
     cursor: pointer;
+}
+
+@media screen and (max-width: 767px) {
+    .header__list-item {
+    font-size: 16px;
+    }
 }

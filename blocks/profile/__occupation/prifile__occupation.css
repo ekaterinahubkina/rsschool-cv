@@ -1,4 +1,12 @@
 .profile__occupation {
     font-size: 28px;
+    font-weight: 600;
+    font-style: italic;
     margin: 0;
+}
+
+@media screen and (max-width: 767px) {
+    .profile__occupation {
+        font-size: 20px;
+    }
 }
