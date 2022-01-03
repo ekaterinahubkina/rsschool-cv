@@ -1,0 +1,9 @@
+.body {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #1D7373;
+}
+
+* {
+    box-sizing: border-box;
+}
