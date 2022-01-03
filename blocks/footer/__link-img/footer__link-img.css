@@ -1,4 +1,9 @@
 .footer__link-img {
     width: 70px;
     height: 70px;
+    object-fit: contain;
+}
+
+.footer__link-img:hover {
+    opacity: .5;
 }

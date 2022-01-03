@@ -1,5 +1,11 @@
 .main__aside {
-    width: 40%;
+    width: 50%;
     background-color: #FFAE73;
     opacity: 0.7;
+}
+
+@media screen and (max-width: 767px) {
+    .main__aside {
+        width: 100%;
+    }
 }

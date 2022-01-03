@@ -2,4 +2,16 @@
     display: block;
     text-decoration: none;
     color: black;
+    font-size: 22px;
+}
+
+.main__section-link:hover {
+    opacity: .5;
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 767px) {
+    .main__section-link {
+        font-size: 18px;
+    }
 }

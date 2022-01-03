@@ -1,3 +1,10 @@
 .main__list-item {
     margin-bottom: 10px;
+    font-size: 18px;
+}
+
+@media screen and (max-width: 767px) {
+    .main__list-item {
+        font-size: 16px;
+    }
 }
