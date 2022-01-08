@@ -1,5 +1,6 @@
 .main__section-link {
     display: block;
+    width: fit-content;
     text-decoration: none;
     color: black;
     font-size: 22px;
